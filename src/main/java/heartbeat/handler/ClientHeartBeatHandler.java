@@ -1,6 +1,6 @@
 package heartbeat.handler;
 
-import com.simon.heartbeat.common.RequestVo;
+import heartbeat.common.RequestVo;
 import io.netty.channel.ChannelHandlerAdapter;
 import io.netty.channel.ChannelHandlerContext;
 
